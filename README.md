@@ -1,4 +1,4 @@
-# React-Chat-App
+Chatly
 Basic chat application is built using react and firebase
 
 STEPS:<br>
